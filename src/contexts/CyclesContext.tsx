@@ -1,4 +1,5 @@
 import { differenceInSeconds } from 'date-fns'
+import { toast } from 'react-toastify'
 import {
   createContext,
   ReactNode,
@@ -7,7 +8,6 @@ import {
   useState,
 } from 'react'
 import {
-  ActionTypes,
   addNewCycleAction,
   interruptCurrentCycleAction,
   markCurrentCycleAsFinishedAction,
@@ -98,10 +98,12 @@ export function CyclesContextProvider({
     dispatch(addNewCycleAction(newCycle))
 
     setAmountSecondsPassed(0)
+    toast.success('Novo ciclo iniciado com sucesso!')
   }
 
   function interruptCurrentCycle() {
     dispatch(interruptCurrentCycleAction())
+    toast.success('Ciclo interrompido com sucesso!')
   }
 
   return (
