@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://ignite_timer.netlify.app/">Ignite Timer :rocket: </a></h1>
+  <h1 align="center"><a href="https://timer-ignite.netlify.app">Ignite Timer :rocket: </a></h1>
 </p>
 
 <p align="center" margin-top="25px" >
@@ -69,4 +69,4 @@ $ npm run dev
 ___
 
 
-[O resultado FINAL pode ser visto aqui](https://ignite_timer.netlify.app/)
+[O resultado FINAL pode ser visto aqui](https://timer-ignite.netlify.app)
