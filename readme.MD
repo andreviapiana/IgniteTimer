@@ -70,3 +70,14 @@ ___
 
 
 [O resultado FINAL pode ser visto aqui](https://timer-ignite.netlify.app)
+
+___
+
+
+## 📝 License
+
+This project is under the license [MIT](./LICENSE).
+
+Made with ❤️ by André Viapiana 👋🏽 [Get in Touch!](https://www.linkedin.com/in/andreviapiana/)
+
+---
