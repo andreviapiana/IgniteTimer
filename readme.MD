@@ -6,8 +6,6 @@
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/andreviapiana/igniteTimer" />
 
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/andreviapiana/igniteTimer" />
-
-  <img alt="Github License" src="https://img.shields.io/github/license/andreviapiana/igniteTimer" />
 </p>
 
 
@@ -73,10 +71,6 @@ ___
 
 ___
 
-
-## 📝 License
-
-This project is under the license [MIT](./LICENSE).
 
 Made with ❤️ by André Viapiana 👋🏽 [Get in Touch!](https://www.linkedin.com/in/andreviapiana/)
 
